@@ -1,15 +1,15 @@
-**Description**
+# Description #
 
 Adds the price range set by the agent to the listings on realestate.com.au
 
-**Notice of Non-Affiliation and Disclaimer**
+# Notice of Non-Affiliation and Disclaimer #
 
 realestate.com.au is owned and operated by ASX-listed REA Group Ltd (REA:ASX) © REA Group Ltd.
 
 We are not affiliated, associated, authorized, endorsed by, or in any way
 officially connected with the REA Group Ltd, or any of its subsidiaries or its affiliates.
 
-**The MIT License (MIT)**
+# The MIT License (MIT) #
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
