@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "RealEstate Price Ranger",
+  "description": "Adds price ranges to realestate.com.au listings",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.realestate.com.au/*",
+        "*://realestate.com.au/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}
